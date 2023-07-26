@@ -12,7 +12,7 @@
 class Leaver
 {
 public:
-    Leaver();
+    OOP_11_02_LIBRARY_API Leaver();
     OOP_11_02_LIBRARY_API std::string leave(std::string input_name);
     
 };
