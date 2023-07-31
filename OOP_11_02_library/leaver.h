@@ -5,7 +5,7 @@
 #define OOP_11_02_LIBRARY_API __declspec(dllexport)
 #else
 #define OOP_11_02_LIBRARY_API __declspec(dllimport)
-#endif // DYNAMICLIB_EXPORTS
+#endif
 
 class Leaver
 {
